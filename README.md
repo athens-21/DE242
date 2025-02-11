@@ -1,1 +1,1 @@
-# DE242
+# DE242 Data Science
